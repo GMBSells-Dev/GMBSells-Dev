@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Sabbir-help/image/blob/main/pinterestdownloader.com-1750369967.312705.gif?raw=true" width="100%" alt="GMBSells Banner" />
   
-  # 👔 Mike | Founder of GMBSells™
+  # Mike | Founder of GMBSells™
   ### *The Ultimate Destination for Premium GitHub & Digital Services*
 </div>
 
